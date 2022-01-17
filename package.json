@@ -1,0 +1,22 @@
+{
+  "name": "@Nagavijay-kolla/package-creation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nagavijay-kolla/package-creation.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nagavijay-kolla/package-creation/issues"
+  },
+  "homepage": "https://github.com/Nagavijay-kolla/package-creation#readme",
+  "publishConfig": {
+    "@Nagavijay-kolla:registry": "https://npm.pkg.github.com"
+  }
+}
